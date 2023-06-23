@@ -60,7 +60,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>dsaurio/${project.artifactId}</name>
+						<name>diegocarrp/${project.artifactId}</name>
 					</image>
 				</configuration>
 			</plugin>
